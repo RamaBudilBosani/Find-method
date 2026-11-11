@@ -1,0 +1,5 @@
+# Syntax of find
+# string.find("substring")
+
+word = "Python Programming"
+print(word.find("Pro"))
